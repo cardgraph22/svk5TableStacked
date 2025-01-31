@@ -8,10 +8,12 @@ This was made using Sveltekit v5.
 
 ## Screenshots
 
-The full width table (larger screen)
+The full table (larger screen)
+
 ![large](static/large.png)
 
 The stacked table (smaller screen)
+
 ![small](static/small.png)
 
 
